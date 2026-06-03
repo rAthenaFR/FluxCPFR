@@ -61,5 +61,5 @@ La documentation utile se trouve dans le dossier `doc/` :
 
 Crédits
 ---------
-FluxCP original créé par Paradox924X et Byteflux, avec des contributions supplémentaires de Xantara.
-FluxCP GitHub : [FluxCP](https://github.com/rathena/FluxCP)
+* FluxCP original créé par Paradox924X et Byteflux, avec des contributions supplémentaires de Xantara.
+* FluxCP GitHub : [FluxCP](https://github.com/rathena/FluxCP)
