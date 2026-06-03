@@ -1,0 +1,25 @@
+<?php
+return array(
+	'location_head_low'					=> 'Tête basse',
+	'location_right_hand'				=> 'Main principale',
+	'location_garment'					=> 'Cape',
+	'location_right_accessory'			=> 'Accessoire droit',
+	'location_armor'					=> 'Armure',
+	'location_left_hand'				=> 'Main secondaire',
+	'location_shoes'					=> 'Chaussures',
+	'location_left_accessory'			=> 'Accessoire gauche',
+	'location_head_top'					=> 'Tête haute',
+	'location_head_mid'					=> 'Tête moyenne',
+	'location_costume_head_top'			=> 'Costume tête haute',
+	'location_costume_head_mid'			=> 'Costume tête moyenne',
+	'location_costume_head_low'			=> 'Costume tête basse',
+	'location_costume_garment'			=> 'Costume cape',
+	'location_ammo'						=> 'Munition',
+	'location_shadow_armor'				=> 'Armure Shadow',
+	'location_shadow_weapon'			=> 'Arme Shadow',
+	'location_shadow_shield'			=> 'Bouclier Shadow',
+	'location_shadow_shoes'				=> 'Chaussures Shadow',
+	'location_shadow_right_accessory'	=> 'Accessoire Shadow droit (boucle)',
+	'location_shadow_left_accessory'	=> 'Accessoire Shadow gauche (pendentif)',
+)
+?>
